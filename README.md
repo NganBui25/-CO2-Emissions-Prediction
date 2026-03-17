@@ -20,9 +20,9 @@ Sau đó, dữ liệu được làm sạch, xử lý và phân tích nhằm tr�
 - Trực quan hóa và phân tích mối quan hệ giữa các loại năng lượng và lượng phát thải CO₂
 - Đánh giá mức độ ảnh hưởng của từng yếu tố năng lượng đến phát thải CO₂.
 ## 3. Cấu trúc thư mục
-*feature_engineering.ipynb*: Notebook phân tích dữ liệu, trực quan hóa và đưa ra kết luận
-*raw_data.jsonl*: Dữ liệu thô
-*clean_data*: Dữ liệu sạch cuối cùng phục vụ phân tích
+- *feature_engineering.ipynb*: Notebook phân tích dữ liệu, trực quan hóa và đưa ra kết luận
+- *raw_data.jsonl*: Dữ liệu thô
+- *clean_data*: Dữ liệu sạch cuối cùng phục vụ phân tích
 ## 4. Công nghệ sử dụng
 Dự án sử dụng: 
 - Python 3.10+
