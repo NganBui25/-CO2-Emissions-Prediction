@@ -1,0 +1,13 @@
+selenium
+requests
+urllib3
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+statsmodels
+scikit-learn
+pycountry-convert
+jupyter
+ipykernel
